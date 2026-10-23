@@ -1,0 +1,6 @@
+{
+  "name": "Bangladesh Pay Fixation 2026 - Military Engineer Services",
+  "description": "Official Pay Fixation 2026 calculator, phase-wise salary breakdown, arrears computation, and Excel exporter for Bangladesh Government and Military Engineer Services (MES) personnel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
